@@ -37,12 +37,13 @@
   font-size:102px;
   line-height: 96px;
   align-items: center;
+  z-index: 100;
 }
 
 .header__subtitle {
   position:absolute;
   max-width:388px;
-  margin-left:64px;
+  left:64px;
   bottom:30px;
   line-height:25px;
   font-size:18px;
@@ -330,6 +331,7 @@
   top:60px;
   bottom:40px;
   margin:auto;
+  right:5%;
   position: absolute;
   border-top:2px solid #f2f2f2;
   border-bottom: 2px solid #f2f2f2;
@@ -394,10 +396,13 @@
   position: relative;
   text-align: left;
   justify-content: flex-start;
+  flex-wrap: nowrap;
 }
 
 .footer__column_content_social {
-  display:inline-flex;
+  flex-wrap: nowrap;
+  display:inline-table;
+  position: absolute;
 }
 
 .footer__social-icon {
