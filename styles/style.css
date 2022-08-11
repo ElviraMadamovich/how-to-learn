@@ -92,7 +92,6 @@
   display:flex;
   width:80%;
   margin:0 auto;
-  display: flex;
   justify-content: space-between;
 }
 
@@ -244,7 +243,6 @@
   position: relative;
   display:flex;
   overflow: hidden;
-  display: flex;
   flex-direction: column;
 }
 
@@ -368,7 +366,6 @@
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;
-  font-style: normal;
 }
 
 .footer__column-links {
