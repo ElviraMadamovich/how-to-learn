@@ -1,7 +1,7 @@
 .table_theme_dark {
   list-style-type: none;
-  margin:0 auto 90px auto;
-  display:flex;
+  margin: 0 auto 90px auto;
+  display: flex;
   flex-wrap: wrap;
   position: relative;
   z-index: 2;

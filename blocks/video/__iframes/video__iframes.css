@@ -2,7 +2,7 @@
   list-style-type: none;
   column-gap: 20px;
   margin: 0 auto;
-  padding:0;
+  padding: 0;
   display: flex;
   flex-direction: row;
   transform: translateY(50px);

@@ -1,8 +1,8 @@
 .footer {
   min-height: 350px;
-  display:flex;
-  position:relative;
-  margin:auto;
+  display: flex;
+  position: relative;
+  margin: auto;
   background-color: #1f1f1f;
   box-sizing: border-box;
 }
